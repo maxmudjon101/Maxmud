@@ -32,7 +32,7 @@ son=list(range(11,1))
 
 
 
-
+#yangi fayl kod
 
 
 
